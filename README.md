@@ -104,6 +104,17 @@ Runnable versions: [`examples/`](examples). The task lifecycle is `pending → p
 
 Use the [Get an API key](https://go.apimart.ai/k-24b304) link — $1 minimum top-up, no plan required.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [wan-2-7-image-prompts-pt](https://github.com/cvytue/wan-2-7-image-prompts-pt)
+- **Same model, other languages** — 9 more language builds: 中文 [wan-2-7-image-api-cn](https://github.com/rlq6o0i/wan-2-7-image-api-cn) · Deutsch `wan-2-7-image-api-de` · Español [wan-2-7-image-api-es](https://github.com/w4ez8p7hr0h5o/wan-2-7-image-api-es) · Français [wan-2-7-image-api-fr](https://github.com/hh8015ko/wan-2-7-image-api-fr) · Relay/gateway `wan-2-7-image-api-gateway` · Bahasa [wan-2-7-image-api-id](https://github.com/giozzasdq/wan-2-7-image-api-id) · 日本語 [wan-2-7-image-api-ja](https://github.com/oinzcy/wan-2-7-image-api-ja) · 한국어 [wan-2-7-image-api-ko](https://github.com/mtdvhv/wan-2-7-image-api-ko) · Русский `wan-2-7-image-api-ru`
+- **More models in this language** — [midjourney-api-pt](https://github.com/l-ca0/midjourney-api-pt) · [gemini-2-5-flash-image-preview-api-pt](https://github.com/ycx8l0/gemini-2-5-flash-image-preview-api-pt) · [nano-banana-api-pt](https://github.com/erujt71i1lx/nano-banana-api-pt) · [gemini-3-1-flash-image-preview-api-pt](https://github.com/hutjwux0nt9h/gemini-3-1-flash-image-preview-api-pt) · [nano-banana-2-api-pt](https://github.com/ydkd8kdkl8n/nano-banana-2-api-pt) · [gemini-3-pro-image-preview-api-pt](https://github.com/qss2d-66qb2n7/gemini-3-pro-image-preview-api-pt)
+- **Topic hubs** — every build of this model, all languages: [wan-2-7-image](https://github.com/topics/wan-2-7-image) · [wan-2-7-image-api](https://github.com/topics/wan-2-7-image-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
